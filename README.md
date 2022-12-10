@@ -7,7 +7,8 @@ This repository contains data visualizations and analysis related to the COVID-1
 ###### covid19 - gmaps notebook:
 This file contains a Python script that uses Google Maps API to visualize the spread of COVID-19 throughout the world. The script uses data from the Johns Hopkins University Coronavirus Resource Center to plot the locations of confirmed COVID-19 cases on an interactive map. It also includes a graph showing the total number of confirmed cases in each country.
 
-Important functions inside covid19 and VIX notebook:
+###### covid19 and VIX notebook
+Important functions inside this notebook:
 This file contains a number of functions used to analyze the impact of the COVID-19 pandemic on the stock market. These functions include: 
 
 1. visualize_changes(): This function takes the death cases and VIX index data and plots the changes in both indexes since February 2020. 
