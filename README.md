@@ -1,5 +1,5 @@
-# Repository Name
-covid19-and-VIX
+# covid19 and VIX
+
 
 ## Description
 This repository contains data visualizations and analysis related to the COVID-19 pandemic and the VIX index. It includes visualizations of the changes in the US stock market and the VIX index since February 2020, as well as a comparison of the covid-19 death cases and the VIX indexes over the same period. Additionally, the repository includes an analysis of the correlation between the two indexes and the impact of the pandemic on the stock market.
